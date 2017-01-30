@@ -57,7 +57,7 @@ flarum-tags:
 
     # These translations are used by the Choose Tags modal dialog.
     choose_tags:
-      choose_primary_placeholder: "Kies een primair label|Kies {count} primaire labels""
+      choose_primary_placeholder: "Kies een primair label|Kies {count} primaire labels"
       choose_secondary_placeholder: "Kies nog 1 extra label|Kies nog {count} extra labels"
       edit_title: "Labels bewerken voor {title}"
       submit_button: => core.ref.okay
