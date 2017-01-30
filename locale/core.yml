@@ -198,9 +198,9 @@ core:
     composer_discussion:
       body_placeholder: Schrijf een bericht...
       discard_confirmation: "Je hebt je discussie nog niet geplaatst. Wil je deze weggooien?"
-      submit_button: Maak discussie
+      submit_button: Start de discussie
       title: => core.ref.start_a_discussion
-      title_placeholder: Discussie titel
+      title_placeholder: Titel van je discussie
 
     # These translations are used by the composer when editing a post.
     composer_edit:
@@ -522,6 +522,7 @@ core:
     username: Gebruikersnaam
     write_a_reply: Schrijf een reactie...
     you: Jij                                     # Referenced by flarum-likes.yml, flarum-mentions.yml
+    start_a_discussion: Start een discussie      # added 31-07-2017/mv
 
   ##
   # GROUP NAMES - These keys are translated at the back end.

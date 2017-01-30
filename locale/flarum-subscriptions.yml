@@ -35,7 +35,7 @@ flarum-subscriptions:
     sub_controls:
       follow_button: => flarum-subscriptions.ref.follow
       following_button: => flarum-subscriptions.ref.following
-      following_text: Be notified of all replies.
+      following_text: Word op de hoogte gehouden van alle reacties.
       ignoring_button: => flarum-subscriptions.ref.ignoring
       ignoring_text: Word niet op de hoogte gesteld. Verbergen van de discussielijst.
       not_following_button: Niet volgend
