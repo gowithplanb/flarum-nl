@@ -1,0 +1,18 @@
+flagrow-ads:
+    admin:
+        buttons:
+            save: Insellingen opslaan
+        positions:
+            under-header:
+                title: Advertentie positie onder navigatie header
+                placeholder: Voeg hier je advertentie code in.
+            between-posts:
+                title: Advertentie positie tussen berichten
+                placeholder: => flagrow-ads.admin.positions.under-header.placeholder
+            under-nav-items:
+                title: Advertentie positie in de linker kolom onder labels op voorpagina
+                placeholder: => flagrow-ads.admin.positions.under-header.placeholder
+        settings:
+            between-n-posts: Geef op na hoeveel berichten een advertentie dient te verschijnen
+        tab:
+            description: Stel advertentie voorkeuren en posities in.
