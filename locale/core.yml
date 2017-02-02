@@ -223,7 +223,7 @@ core:
       delete_button: => core.ref.delete
       delete_confirmation: Weet je zeker dat je deze discussie wilt verwijderen?
       delete_forever_button: => core.ref.delete_forever
-      log_in_to_reply_button: Log in om te reageren
+      log_in_to_reply_button: Reageren? Log in
       rename_button: Hernoemen
       rename_text: Kies een nieuwe titel voor deze discussie:
       reply_button: => core.ref.reply
